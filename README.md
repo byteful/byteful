@@ -7,3 +7,5 @@ I am a full-time student and an experienced Java developer. I currently work at 
 - 📫 You can contact me on Discord @ byteful#0001.
 - 😄 I go by he/him.
 - ⚡ I like potatoes 🥔 and computers 💻.
+
+[![byteful's GitHub stats](https://github-readme-stats.vercel.app/api?username=byteful)](https://github.com/byteful)
