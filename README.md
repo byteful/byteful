@@ -1,6 +1,6 @@
 # <p align="center"> Hello! 👋 I'm byteful. </p>
 
-I am a full-time student and an experienced Java developer. I currently work at [@FeaturedSpace](https://github.com/FeaturedSpace).
+I am a full-time student and an experienced Java developer.
 
 - 🔭 I'm not really focusing on open-source projects, but I will be maintaining [LevelTools](https://github.com/byteful/LevelTools) and [MiniMapGUI](https://github.com/byteful/MiniMapGUI).
 - 💬 I am open to talk about Java, Minecraft, and/or web backends.
