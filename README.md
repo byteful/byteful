@@ -8,4 +8,6 @@ I am a full-time student and an experienced Java developer.
 - 😄 I go by he/him.
 - ⚡ I like computers 💻, martial arts 🥋, robotics 🤖, and soccer ⚽.
 
-[![byteful's GitHub stats](https://github-readme-stats.vercel.app/api?username=byteful)](https://github.com/byteful)
+[![byteful's GitHub stats](https://github-readme-stats.vercel.app/api?username=byteful)](https://github.com/byteful)<br>
+![](https://komarev.com/ghpvc/?username=byteful&color=brightgreen&style=for-the-badge)
+![](https://dcbadge.vercel.app/api/shield/816873517622624296)
