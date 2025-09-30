@@ -1,6 +1,6 @@
-# <p align="center"> Hello! 👋 I'm byteful. </p>
+# <p align="center"> Hello! 👋 I'm Rudra Patel. </p>
 
-I am a full-time student and an experienced Java developer.
+I am a full-time student and an experienced Java developer. I go by byteful on the Internet.
 
 - 🔭 I'm not actively maintaining any open-source projects right now, but I'm learning Svelte.
 - 💬 I am open to talk about Java, Minecraft, P5.js games, and/or web backends (Svelte, SvelteKit).
