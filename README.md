@@ -2,11 +2,10 @@
 
 I am a full-time student and an experienced software engineer. I go by byteful on the Internet.<br> I specialize in building backend software => [view here](https://github.com/modl-gg/backend).
 
-- 🔭 I am actively maintaining [modl.gg](https://github.com/modl-gg), [mctest.io](https://github.com/mctest-io), and [civfix](https://github.com/civfix).
-- 💬 I am open to talk about Java, Minecraft, backends, distributed infrastructure, and mobile/web apps.
+- 🔭 I am actively maintaining [civfix](https://github.com/civfix).
+- 💬 I am open to talk about Java, Rust, TypeScript, backends, distributed infrastructure, and mobile/web apps.
 - 📫 You can contact me on Discord @ byteful.
-- 😄 I go by he/him.
-- ⚡ I like computers 💻, martial arts 🥋, robotics 🤖, and soccer ⚽.
+- ⚡ I like computers 💻, martial arts 🥋, robotics 🤖, F1 racing 🏎️, and soccer ⚽.
 - 🇺🇸 I live in Kentucky (eastern timezone).
 
 ---
