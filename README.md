@@ -1,11 +1,11 @@
 # <p align="center"> Hello! 👋 I'm Rudra. </p>
 
-I am a full-time student and an experienced software engineer. I go by byteful on the Internet.<br> I specialize in building backend software => [view here](https://github.com/modl-gg/backend).
+I am a full-time student and an experienced software engineer. I go by byteful on the Internet.<br> I specialize in building backend software => [view here](https://github.com/civfix/civfix-backend) and [here](https://github.com/modl-gg/backend).
 
 - 🔭 I am actively maintaining [civfix](https://github.com/civfix).
 - 💬 I am open to talk about Java, Rust, TypeScript, backends, distributed infrastructure, and mobile/web apps.
-- 📫 You can contact me on Discord @ byteful.
-- ⚡ I like computers 💻, martial arts 🥋, robotics 🤖, F1 racing 🏎️, and soccer ⚽.
+- 📫 You can contact me on Discord @ `byteful` or via email at [info@byteful.me](mailto:info@byteful.me).
+- ⚡ I like computers 💻, cooking 🍳, martial arts 🥋, robotics 🤖, F1 racing 🏎️, and soccer ⚽.
 - 🇺🇸 I live in Kentucky (eastern timezone).
 
 ---
